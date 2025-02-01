@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;Welcome+to+Alta+World)](https://git.io/typing-svg)
 
 # 🛡️ 𝙈𝙪𝙝𝙖𝙢𝙢𝙖𝙙 𝘼𝙡𝙬𝙖𝙯 | 𝙀𝙩𝙝𝙞𝙘𝙖𝙡 𝙃𝙖𝙘𝙠𝙚𝙧, 𝙋𝙚𝙣𝙩𝙚𝙨𝙩𝙚𝙧 & 𝙍𝙚𝙙 𝙏𝙚𝙖𝙢𝙚𝙧 👾  
 
