@@ -1,8 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;Welcome+to+Alta+World)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👾+Hello+World+👾;🚀+Welcome+to+Alta+World+🚀&font=Roboto+Mono&size=30&color=000000&weight=700&center=true&vCenter=true&duration=10000&pause=500)](https://git.io/typing-svg)
+
 
 # 🛡️ 𝙈𝙪𝙝𝙖𝙢𝙢𝙖𝙙 𝘼𝙡𝙬𝙖𝙯 | 𝙀𝙩𝙝𝙞𝙘𝙖𝙡 𝙃𝙖𝙘𝙠𝙚𝙧, 𝙋𝙚𝙣𝙩𝙚𝙨𝙩𝙚𝙧 & 𝙍𝙚𝙙 𝙏𝙚𝙖𝙢𝙚𝙧 👾  
 
-**whoami**
+
+# **Whoami**
 
 🔻 𝙴𝚝𝚑𝚒𝚌𝚊𝚕 𝙷𝚊𝚌𝚔𝚎𝚛 | 𝙿𝚎𝚗𝚝𝚎𝚜𝚝𝚎𝚛 | 𝚁𝚎𝚍 𝚃𝚎𝚊𝚖𝚎𝚛 | 𝙲𝚢𝚋𝚎𝚛 𝙶𝚎𝚎𝚔 🔥💻
 
@@ -12,7 +15,7 @@
 
 🚀 "Security is just an illusion – until I test it."
 
-**skills**
+# **Skills**
 
 📌 𝙴𝚡𝚙𝚎𝚛𝚝𝚒𝚜𝚎
 
@@ -26,7 +29,7 @@
 
 🔐 Cryptography & Digital Forensics
 
-**contact details**
+# **Contact Details**
 
 ## 📌 Connect With Me  
 
