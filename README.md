@@ -36,7 +36,7 @@ Hello World 👋
 
 📸 [📷 **Instagram**](https://www.instagram.com/alta_bross/)  
 
-🕵️ [💀 **TryHackMe**](https://tryhackme.com/p/MuhammadAlwaz)  
+🕵️ [💀 **TryHackMe**](https://tryhackme.com/r/p/altabross)  
 
 
 
