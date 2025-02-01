@@ -23,6 +23,7 @@ Hello World 👋
 **details**
 
 📌 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎
+
 🌐 🔗 LinkedIn
 📺 🔥 YouTube
 📸 📷 Instagram
