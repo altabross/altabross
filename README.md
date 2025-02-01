@@ -26,17 +26,17 @@ Hello World 👋
 
 🔐 Cryptography & Digital Forensics
 
-**details**
+**contact details**
 
-📌 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎
+## 📌 Connect With Me  
 
-🌐 🔗 LinkedIn
+🌐 [🔗 **LinkedIn**](https://www.linkedin.com/in/alta-bross-515193274/)  
 
-📺 🔥 YouTube
+📺 [🔥 **YouTube**](https://www.youtube.com/@AltaBross/)  
 
-📸 📷 Instagram
+📸 [📷 **Instagram**](https://www.instagram.com/alta_bross/)  
 
-🕵️ 💀 TryHackMe
+🕵️ [💀 **TryHackMe**](https://tryhackme.com/p/MuhammadAlwaz)  
 
 
 
